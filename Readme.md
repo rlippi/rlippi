@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💼 Currently, I'm going deep into Python programming language and other technologies like PowerBI, MySQL and Advanced Excel aiming become a Business Intelligence Analyst.<br>🌱 I'm constantly learning and exploring new technologies actually focusing on Data Analysis and Tasks Automations.<br>👯 I´m open to collaborations and interesting projects. Feel free to get in touch! :)</p>
+<p align="left">💼 Currently, I'm going deep into Java and Python programming language and other technologies to become a better Developer.<br>🌱 I'm constantly learning and exploring new technologies actually focusing on Systems, Data Analysys and Tasks Automations.<br>👯 I´m open to collaborations and interesting projects. Feel free to get in touch! :)</p>
 
 ###
 
